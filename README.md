@@ -17,6 +17,11 @@
 
 <br>
 
+## To run this project, download the code, then create a database named "database" in mysql database and import the given "student_table.sql" file in the Database. 
+
+
+<br>
+
 <!-- <h3 align="center">I am on my way to become a Developer</h3> -->
 
 
