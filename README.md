@@ -11,7 +11,6 @@
 
 ## I am back with a 🆕 PHP project! 
 
-
 <br>
 
 ## With this project, one can perform CRUD (Create, Read, Update, Delete) operations. It was developed with PHP and MySQL. 🌟
